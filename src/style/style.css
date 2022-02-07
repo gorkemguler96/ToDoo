@@ -1,0 +1,19 @@
+.card-header:hover {
+    background: #6c757d;
+    color: white;
+}
+.card-header:hover button {
+    background: #fff;
+    color: #6c757d;
+}
+.form-control:focus{
+    outline-style: groove;
+}
+.yapildi {
+    text-decoration:line-through;
+
+}
+.btn-dlt {
+    height: 45px;
+    margin-top: 1px;
+}
